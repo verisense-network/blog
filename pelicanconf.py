@@ -3,6 +3,7 @@ SITENAME = "Verisense Blog"
 SITEURL = ""
 
 PATH = "content"
+OUTPUT = "docs"
 
 TIMEZONE = "Asia/Shanghai"
 
