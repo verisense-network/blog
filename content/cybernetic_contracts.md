@@ -1,25 +1,29 @@
 Title: Cybernetic Contracts
 Date: 2025-06-21 19:19
-Category: Agent
+Category: English
 Author: Edison Z.
 
 ## What is an Agent
-An AI agent transcends the concept of a mere chatbot, blending LLMs with Context, Prompt, and Tools to craft a more versatile entity. Conceptually:
+An AI agent transcends the concept of a mere chatbot, blending LLMs with Context, Prompt, and Tools to craft a more versatile entity. 
+  
+*Agent = Context + Prompt + Tools*
 
 Imagine the AI from "The Wandering Earth," with its Context as a sensor network enveloping the globe, drawing data from lunar vibrations to oxygen fluctuations aboard space stations—forming its "sixth sense."
 
 Its Tools comprise breathtaking futuristic technology:
 
-Nanotech 3D printers that function in a vacuum.
-Self-assembling modular engineering machines.
-Millions of execution terminals like neurons within planetary engines.
+- Nanotech 3D printers that function in a vacuum.
+- Self-assembling modular engineering machines.
+- Millions of execution terminals like neurons within planetary engines.
+
 Its Prompt is a stark, singular directive:
 "Preserve human civilization at all costs."
 
 This encapsulates the essence of a true AI agent, contrasting with ChatGPT on your phone, which swaps satellites for Wikipedia and engineering vehicles for Python libraries. Like tricks hidden beneath a wizard’s robe, the most awe-inspiring technological marvels dismantle into these straightforward components.
 
 ## On-chain Agent as a Cybernetic Contract
-2.1 Deterministic vs. Indeterministic
+
+### Deterministic vs. Indeterministic
 
 Before humanity ventures into a science fiction era, we must first harness AI for less glamorous duties, like market monitoring, creating promotional images, or drafting reports. While AI adeptly accomplishes these tasks, traditional programming remains indispensable.
 
@@ -31,7 +35,7 @@ Blockchain exemplifies determinism, as Vitalik Buterin named Ethereum’s applic
 
 Imagine an agent claiming it needs email access for tasks—it's challenging to trust the service won't exploit your access keys elsewhere. Conversely, on-chain agents, with audit trails and open-source code, embody reliability from the user’s perspective.
 
-2.2 Identity & Access to Sensitive Resources
+### Identity & Access to Sensitive Resources
 
 Active blockchain underpins on-chain agent execution, yet mere network request initiation doesn't render sufficient allure. In the Web3 realm, identity isn't defined by email, phone, or government-issued IDs; it's forged by cryptographic keys. For individuals, a wallet address serves as a blockchain passport; for AI Agents, keys are their birth certificates in cyberspace.
 
