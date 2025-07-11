@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Read Articles
       link: /articles/
+    - theme: alt
+      text: 中文
+      link: /zh/
 
 features:
   - title: AI Agents
