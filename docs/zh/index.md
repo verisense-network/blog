@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 阅读文章
       link: /zh/articles/
+    - theme: alt
+      text: English
+      link: /
 
 features:
   - title: AI 智能体
