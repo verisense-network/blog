@@ -1,24 +1,13 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# Verisense Blog
 
-hero:
-  name: "Verisense Blog"
-  tagline: Deep Insights into AI Agents & Web3
-  actions:
-    - theme: brand
-      text: Read Articles
-      link: /articles/
-    - theme: alt
-      text: 中文
-      link: /zh/
+Welcome to Verisense Blog - Deep insights into AI Agents & Web3.
 
-features:
-  - title: AI Agents
-    details: Explore cutting-edge developments in agent technology, from concepts to practical implementations
-  - title: Cybernetic Contracts
-    details: Understanding the integration of smart contracts and AI in decentralized worlds
-  - title: Web3 Innovation
-    details: Discover new opportunities and challenges brought by the combination of blockchain and AI
----
+## AI Agent
+
+- [Cybernetic Contracts](/ai-agent/cybernetic-contracts) - Understanding the intersection of AI and smart contracts
+- [Decentralized AI Agents](/ai-agent/de-agent-network) - Exploring decentralized AI agent networks
+
+## Annual Reports
+
+- [2025 Report](/2025) - 2025 annual report and insights
 

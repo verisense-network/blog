@@ -1,23 +1,12 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# Verisense 博客
 
-hero:
-  name: "Verisense 博客"
-  tagline: AI 智能体与 Web3 的深度洞察
-  actions:
-    - theme: brand
-      text: 阅读文章
-      link: /zh/articles/
-    - theme: alt
-      text: English
-      link: /
+欢迎来到 Verisense 博客 - AI 智能体与 Web3 的深度洞察。
 
-features:
-  - title: AI 智能体
-    details: 探索智能体技术的前沿发展，从概念到实践的全面解析
-  - title: 赛博契约
-    details: 深入了解去中心化世界中的智能合约与AI的结合
-  - title: Web3 创新
-    details: 发现区块链技术与AI结合带来的新机遇与挑战
---- 
+## AI 智能体
+
+- [赛博契约](/zh/ai-agent/cybernetic-contracts) - 深入了解 AI 与智能合约的结合
+- [去中心化AI智能体网络](/zh/ai-agent/de-agent-network) - 探索去中心化 AI 智能体网络
+
+## 年度报告
+
+- [2025 年报](/zh/2025) - 2025 年度总结与深度洞察 

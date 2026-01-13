@@ -15,19 +15,24 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Articles', link: '/articles/' },
+          { text: 'AI Agent', link: '/ai-agent/cybernetic-contracts' },
+          { text: '2025 Report', link: '/2025' },
         ],
-        sidebar: {
-          '/articles/': [
-            {
-              text: 'AI Agent',
-              items: [
-                { text: 'Cybernetic Contracts', link: '/articles/cybernetic-contracts' },
-                { text: 'Decentralized AI Agents', link: '/articles/de-agent-network' }
-              ]
-            }
-          ]
-        },
+        sidebar: [
+          {
+            text: 'AI Agent',
+            items: [
+              { text: 'Cybernetic Contracts', link: '/ai-agent/cybernetic-contracts' },
+              { text: 'Decentralized AI Agents', link: '/ai-agent/de-agent-network' }
+            ]
+          },
+          {
+            text: 'Annual Reports',
+            items: [
+              { text: '2025 Report', link: '/2025' }
+            ]
+          }
+        ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/verisense-network' }
         ]
@@ -41,19 +46,24 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/zh/' },
-          { text: '文章', link: '/zh/articles/' },
+          { text: 'AI 智能体', link: '/zh/ai-agent/cybernetic-contracts' },
+          { text: '2025 年报', link: '/zh/2025' },
         ],
-        sidebar: {
-          '/zh/articles/': [
-            {
-              text: 'AI 智能体',
-              items: [
-                { text: '赛博契约', link: '/zh/articles/cybernetic-contracts' },
-                { text: '去中心化AI智能体网络', link: '/zh/articles/de-agent-network' }
-              ]
-            }
-          ]
-        },
+        sidebar: [
+          {
+            text: 'AI 智能体',
+            items: [
+              { text: '赛博契约', link: '/zh/ai-agent/cybernetic-contracts' },
+              { text: '去中心化AI智能体网络', link: '/zh/ai-agent/de-agent-network' }
+            ]
+          },
+          {
+            text: '年度报告',
+            items: [
+              { text: '2025 年报', link: '/zh/2025' }
+            ]
+          }
+        ],
         socialLinks: [
           { icon: 'github', link: 'https://github.com/verisense-network' }
         ]
